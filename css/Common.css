@@ -1,0 +1,10 @@
+﻿body { font-family:Arial, Meiryo UI, Tahoma; margin:0px;
+}
+.menu{border:2px solid #fbfbfb; background-image:url(images/line.png);background-repeat:repeat-x; color:White; font-size:17px;}
+.menu a{text-decoration:none; color:White;}
+.submenu{}
+.submenu a{text-decoration:none; color:black;}
+.midmenu{background-color:#fee996; color:#474643;}
+.midmenu a{text-decoration:none; color:#474643;}
+.lastmenu{background-image:url(../images/bottomline.png); background-repeat:repeat-x;height:48px;text-align:center;color:White;}
+.lastmenu a{text-decoration:none;text-align:center;color:White;}
