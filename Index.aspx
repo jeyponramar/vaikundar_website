@@ -43,43 +43,7 @@ CodeFile="Index.aspx.cs" Inherits="_Index" %>
         </script>
 
     </div>  
-    <!--Donation dialog-->
-    <div class="startpopup">
-
-        <div id="startpopup" title="அய்யா துணை">
-            <p>
-                <%--<div>
-                    <a href="invitation.aspx?id=0">
-                    <img src="images/invitation/popup/0.jpg" /></a>
-                </div>--%>
-                <%--<div>
-                <a href="feedback.aspx" style='color:blue;'>
-                    இந்த இணைய தளத்தில் அய்யா பதியின் தகவல்களை பார்வையாளர்களுக்கு இலவசமாக தெரிவிக்க விரும்புகிறவர்கள் எங்களை தொடர்பு கொள்ளுங்கள் (+91 9819398363)
-                </a>
-                </div>--%>
-            </p>
-	        <%--<p>
-	            அய்யா வைகுண்டரின் காணியாளன்  பதி, காணியாளன் புதூர்.<br /><br />
-                அன்புடையீர்,<br /><br />
-                அய்யா நிச்சயித்த படி காணியாளன் புதூரில் <b>"அய்யா வைகுண்டரின் காணியாளன் பதி"</b> 
-                பள்ளியறை பணி அய்யாவின் 180-வது அவதார வருடத்தில் தொடங்க விருக்கிறது. 
-                இந்த அய்யாவின் பணி சிறக்க தங்களால் முடிந்த தருமத்தை செய்யும்படி தாழ்மையுடன் கேட்டுக் கொள்கிறோம். <br /><br />
-                இவண், <br />
-                அய்யாவின் பணியில், <br />
-                க. நரசிம்மன், <br />
-                சோனகன் விளை(P.O) - 628201,<br />
-                திருசெந்தூர் தாலுகா, <br />
-                தூத்துக்குடி மாவட்டம்,<br />
-                <b>9566459437.</b>
-                <br />
-                <br />
-                <a href="feedback.aspx" style='color:blue;'>
-                    இந்த இணைய தளத்தில் அய்யா பதியின் தகவல்களை பார்வையாளர்களுக்கு இலவசமாக தெரிவிக்க விரும்புகிறவர்கள் எங்களை தொடர்பு கொள்ளுங்கள் (+91 9819398363)
-                </a>
-	        </p>--%>
-        </div>
-    </div>
-<!--Donation dialog-->
+    
     <tr>
         <td style="background-image:url(images/mainline.png); background-repeat:repeat-x;width:1024px;">
             <div id="maindiv">
@@ -239,12 +203,7 @@ CodeFile="Index.aspx.cs" Inherits="_Index" %>
                                          </td>
                                          <td style="padding-left:50px; vertical-align:top;">
                                             <table>
-                                                    <tr><td style="color:#aa6205;padding-left:13px; font-weight:bold;">
-                                                    <table><tr><td><a href="invitation.aspx?id=1" style="color:#aa6205;text-decoration:none;">அய்யா&nbsp;வைகுண்டர்&nbsp;காணியாளன்&nbsp;பதி</a></td></tr></table>
-                                                    </td></tr>
-                                                    <tr>
-                                                        <td><a href="invitation.aspx?id=1"><img src="images/invitation/thumb/1.jpg"/></a></td>
-                                                    </tr>
+                                                   
                                                     <tr>
                                                         <td>
                                                             <div style="float:left">
