@@ -151,7 +151,7 @@
                                                 <td style=" padding-right:15px; padding-left:15px;"><a href="view-photos.aspx">Photos</a></td><td><img src ="images/menuline.png" /></td>
                                                 <td style=" padding-right:15px; padding-left:15px;"><a href="view-videos.aspx">Videos</a></td><td><img src ="images/menuline.png" /></td>
                                                 <td style=" padding-right:15px; padding-left:15px;"><a href="songs.aspx">Songs</a></td><td><img src ="images/menuline.png" /></td>
-                                                <td style=" padding-right:15px; padding-left:15px;"><a href="edu-vasippu.aspx">Edu-Vasippu</a></td><td><img src ="images/menuline.png" /></td>
+                                                <%--<td style=" padding-right:15px; padding-left:15px;"><a href="edu-vasippu.aspx">Edu-Vasippu</a></td><td><img src ="images/menuline.png" /></td>--%>
                                                 <td style=" padding-right:15px; padding-left:15px;"><a href="about-akilathirattu-ammanai.aspx">Akilathirattu</a></td><td><img src ="images/menuline.png" /></td>
                                                 <td style=" padding-right:15px; padding-left:15px;"><a href="bhagavad-gita.aspx">Gita</a></td><td><img src ="images/menuline.png" /></td>
                                                 <td style=" padding-right:15px; padding-left:15px;"><a href="view-blogs.aspx">Blog</a></td>
